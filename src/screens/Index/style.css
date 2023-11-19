@@ -1,0 +1,1190 @@
+.index {
+  background-color: #090f3f;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.index .div {
+  background-color: #090f3f;
+  border: 1px none;
+  height: 6180px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.index .overlap {
+  height: 6350px;
+  left: -54px;
+  position: absolute;
+  top: -170px;
+  width: 1725px;
+}
+
+.index .ellipse {
+  border-radius: 530.5px/349.5px;
+  filter: blur(35px);
+  height: 699px;
+  left: 597px;
+  position: absolute;
+  top: 375px;
+  transform: rotate(-0.56deg);
+  width: 1061px;
+}
+
+.index .ellipse-2 {
+  background-color: #d9d9d933;
+  border-radius: 266px/224.5px;
+  filter: blur(100px);
+  height: 449px;
+  left: 1193px;
+  position: absolute;
+  top: 0;
+  width: 532px;
+}
+
+.index .featured-on {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  height: 49px;
+  left: 302px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 831px;
+  width: 303px;
+}
+
+.index .text-wrapper {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .slotto {
+  -webkit-backdrop-filter: blur(50px) brightness(100%);
+  backdrop-filter: blur(50px) brightness(100%);
+  background-image: url(https://cdn.animaapp.com/projects/6559a8c90d3a48ab5d2e1766/releases/6559a97e38fd7dfd97a3a670/img/slotto-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1262px;
+  left: 54px;
+  overflow: hidden;
+  position: absolute;
+  top: 2363px;
+  width: 1440px;
+}
+
+.index .element {
+  height: 349px;
+  left: 197px;
+  object-fit: cover;
+  position: absolute;
+  top: 71px;
+  width: 590px;
+}
+
+.index .rectangle-wrapper {
+  height: 458px;
+  left: 566px;
+  position: absolute;
+  top: 941px;
+  width: 948px;
+}
+
+.index .rectangle {
+  height: 448px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 948px;
+}
+
+.index .rectangle-2 {
+  height: 2777px;
+  left: 54px;
+  position: absolute;
+  top: 3573px;
+  width: 1440px;
+}
+
+.index .time-line {
+  height: 917px;
+  left: 240px;
+  position: absolute;
+  top: 410px;
+  width: 48px;
+}
+
+.index .overlap-group {
+  height: 917px;
+  position: relative;
+}
+
+.index .line {
+  height: 917px;
+  left: 22px;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.index .ellipse-3 {
+  background-color: #090f3f;
+  border-radius: 22px;
+  height: 44px;
+  left: 2px;
+  position: absolute;
+  top: 353px;
+  width: 44px;
+}
+
+.index .ellipse-4 {
+  background-color: #090f3f;
+  border-radius: 22px;
+  height: 44px;
+  left: 0;
+  position: absolute;
+  top: 533px;
+  width: 44px;
+}
+
+.index .ellipse-5 {
+  background-color: #090f3f;
+  border-radius: 22px;
+  height: 44px;
+  left: 2px;
+  position: absolute;
+  top: 687px;
+  width: 44px;
+}
+
+.index .ellipse-6 {
+  background-color: #090f3f;
+  border-radius: 22px;
+  height: 44px;
+  left: 2px;
+  position: absolute;
+  top: 847px;
+  width: 44px;
+}
+
+.index .ellipse-7 {
+  background-color: #090f3f;
+  border-radius: 22px;
+  height: 44px;
+  left: 4px;
+  position: absolute;
+  top: 15px;
+  width: 44px;
+}
+
+.index .frame {
+  height: 118px;
+  left: 321px;
+  position: absolute;
+  top: 433px;
+  width: 958px;
+}
+
+.index .sept {
+  -webkit-text-stroke: 1px #2a2860;
+  color: #eaeaa7;
+  font-family: "Outfit", Helvetica;
+  font-size: 24px;
+  font-weight: 800;
+  height: 1px;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: 0.1px;
+  position: absolute;
+  top: -2px;
+}
+
+.index .span {
+  color: #eaeaa7;
+  font-family: "Outfit", Helvetica;
+  font-size: 24px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 0.1px;
+}
+
+.index .completion-of-BUX-wrapper {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 13px;
+  width: 958px;
+}
+
+.index .completion-of-BUX {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 26px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .div-wrapper {
+  height: 46px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 958px;
+}
+
+.index .span-wrapper {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 26px;
+  left: 325px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.index .roadmap-info {
+  background-color: #3f446c91;
+  border-radius: 26.51px;
+  height: 114px;
+  left: 240px;
+  overflow: hidden;
+  position: absolute;
+  top: 272px;
+  width: 1039px;
+}
+
+.index .info-bar {
+  height: 78px;
+  position: relative;
+  top: 18px;
+}
+
+.index .vector {
+  height: 66px;
+  left: 20px;
+  position: absolute;
+  top: 6px;
+  width: 66px;
+}
+
+.index .the-following {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 78px;
+  left: 131px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: justify;
+  top: -1px;
+  width: 871px;
+}
+
+.index .heading {
+  -webkit-text-stroke: 1px #2a2860;
+  color: #eaeaa7;
+  font-family: "Outfit", Helvetica;
+  font-size: 82px;
+  font-weight: 800;
+  height: 70px;
+  left: 239px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: right;
+  top: 140px;
+  white-space: nowrap;
+}
+
+.index .text-wrapper-3 {
+  color: #eaeaa7;
+  font-family: "Outfit", Helvetica;
+  font-size: 82px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 70px;
+}
+
+.index .hero-bottom {
+  height: 114px;
+  left: 295px;
+  position: absolute;
+  top: 931px;
+  width: 1039px;
+}
+
+.index .hero-right {
+  height: 574px;
+  left: 691px;
+  position: absolute;
+  top: 307px;
+  width: 643px;
+}
+
+.index .discord-button {
+  height: 91px;
+  left: 182px;
+  position: absolute;
+  top: 476px;
+  width: 415px;
+}
+
+.index .download-wrapper {
+  background-color: #7289d9;
+  border-radius: 65px;
+  height: 101px;
+  left: -5px;
+  position: relative;
+  top: -5px;
+  width: 425px;
+}
+
+.index .download {
+  height: 77px;
+  left: 61px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 303px;
+}
+
+.index .frame-2 {
+  height: 192px;
+  left: 179px;
+  position: absolute;
+  top: 228px;
+  width: 418px;
+}
+
+.index .frame-3 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 575px;
+}
+
+.index .ellipse-8 {
+  border-radius: 2.5px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 5px;
+}
+
+.index .paragraph {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  height: 48px;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 53.4px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 551px;
+}
+
+.index .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 53.4px;
+}
+
+.index .frame-4 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 48px;
+  width: 575px;
+}
+
+.index .frame-5 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 96px;
+  width: 575px;
+}
+
+.index .frame-6 {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 144px;
+  width: 575px;
+}
+
+.index .p {
+  color: #eadca7;
+  font-family: "Outfit", Helvetica;
+  font-size: 54px;
+  font-weight: 800;
+  height: 140px;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: right;
+  top: 56px;
+  width: 621px;
+}
+
+.index .text-wrapper-5 {
+  color: #eadca7;
+  font-family: "Outfit", Helvetica;
+  font-size: 54px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: 70px;
+}
+
+.index .hero-left {
+  border-radius: 36.39px;
+  height: 664px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 120px;
+  width: 728px;
+}
+
+.index .image {
+  height: 827px;
+  left: -85px;
+  position: absolute;
+  top: 0;
+  width: 861px;
+}
+
+.index .TOKENOMICS {
+  height: 1640px;
+  left: 54px;
+  position: absolute;
+  top: 865px;
+  width: 1440px;
+}
+
+.index .overlap-2 {
+  background-image: url(https://cdn.animaapp.com/projects/6559a8c90d3a48ab5d2e1766/releases/6559a97e38fd7dfd97a3a670/img/polygon-2-1@2x.png);
+  background-size: 100% 100%;
+  height: 1577px;
+  position: relative;
+  top: 4px;
+}
+
+.index .polygon {
+  height: 1577px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.index .heading-wrapper {
+  height: 90px;
+  left: 779px;
+  position: absolute;
+  top: 332px;
+  width: 575px;
+}
+
+.index .heading-2 {
+  -webkit-text-stroke: 1px #2a2860;
+  color: #eaeaa7;
+  font-family: "Outfit", Helvetica;
+  font-size: 82px;
+  font-weight: 800;
+  height: 70px;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  text-align: right;
+  top: 8px;
+  white-space: nowrap;
+}
+
+.index .the-BUX-token-can-be-wrapper {
+  height: 76px;
+  left: 802px;
+  position: absolute;
+  top: 436px;
+  width: 613px;
+}
+
+.index .the-BUX-token-can-be {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  height: 56px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 593px;
+}
+
+.index .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .frame-7 {
+  height: 226px;
+  left: 802px;
+  position: absolute;
+  top: 553px;
+  width: 552px;
+}
+
+.index .frame-8 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 552px;
+}
+
+.index .img {
+  height: 33px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 35px;
+}
+
+.index .span-wrapper-2 {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 26px;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 477px;
+}
+
+.index .frame-9 {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 77px;
+  width: 552px;
+}
+
+.index .vector-2 {
+  height: 33px;
+  left: 10px;
+  position: absolute;
+  top: 20px;
+  width: 35px;
+}
+
+.index .community-engagement {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 52px;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 9px;
+  width: 477px;
+}
+
+.index .frame-10 {
+  height: 53px;
+  left: 0;
+  position: absolute;
+  top: 173px;
+  width: 552px;
+}
+
+.index .frame-11 {
+  height: 200px;
+  left: 226px;
+  position: absolute;
+  top: 882px;
+  width: 552px;
+}
+
+.index .frame-12 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 552px;
+}
+
+.index .group {
+  height: 50px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 50px;
+}
+
+.index .overlap-group-2 {
+  border-radius: 15px;
+  height: 50px;
+  position: relative;
+}
+
+.index .vector-3 {
+  height: 33px;
+  left: 8px;
+  position: absolute;
+  top: 8px;
+  width: 33px;
+}
+
+.index .rectangle-3 {
+  border-radius: 15px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 50px;
+}
+
+.index .BUX-cannot-be-bought {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 26px;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+  width: 462px;
+}
+
+.index .frame-13 {
+  height: 106px;
+  left: 0;
+  position: absolute;
+  top: 94px;
+  width: 552px;
+}
+
+.index .vector-wrapper {
+  border-radius: 15px;
+  height: 50px;
+  left: 10px;
+  position: absolute;
+  top: 28px;
+  width: 50px;
+}
+
+.index .frame-14 {
+  height: 86px;
+  left: 80px;
+  position: absolute;
+  top: 10px;
+  width: 462px;
+}
+
+.index .BUX-can-be-cashed {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  height: 52px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  width: 462px;
+}
+
+.index .please-open-a {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 16px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 69px;
+  width: 417px;
+}
+
+.index .text-wrapper-7 {
+  color: #ffffff;
+  font-family: "Roboto Flex", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .solana-logo {
+  height: 335px;
+  left: 847px;
+  object-fit: cover;
+  position: absolute;
+  top: 839px;
+  width: 476px;
+}
+
+.index .BUX-logo-wrapper {
+  height: 839px;
+  left: 164px;
+  position: absolute;
+  top: 0;
+  width: 614px;
+}
+
+.index .BUX-logo {
+  height: 533px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 296px;
+  width: 594px;
+}
+
+.index .header {
+  background-color: transparent;
+  height: 163px;
+  left: 214px;
+  position: absolute;
+  top: 170px;
+  width: 1120px;
+}
+
+.index .header-left {
+  height: 143px;
+  left: 6px;
+  position: absolute;
+  top: 10px;
+  width: 742px;
+}
+
+.index .navbar {
+  height: 25px;
+  left: 58px;
+  position: relative;
+  top: 46px;
+  width: 661px;
+}
+
+.index .HOME {
+  -webkit-text-stroke: 1px #000000;
+  color: #f9ff00;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -2px;
+}
+
+.index .text-wrapper-8 {
+  color: #f9ff00;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .TOKENOMICS-2 {
+  -webkit-text-stroke: 1px #000000;
+  color: #f9ff00;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  left: 104px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -2px;
+}
+
+.index .SLOTTO {
+  -webkit-text-stroke: 1px #000000;
+  color: #f9ff00;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  left: 284px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -2px;
+}
+
+.index .ROADMAP {
+  -webkit-text-stroke: 1px #000000;
+  color: #f9ff00;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  left: 408px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -2px;
+}
+
+.index .TEAM {
+  -webkit-text-stroke: 1px #000000;
+  color: #f9ff00;
+  font-family: "Outfit", Helvetica;
+  font-size: 20px;
+  font-weight: 800;
+  left: 556px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -2px;
+}
+
+.index .logo {
+  height: 143px;
+  left: 758px;
+  position: absolute;
+  top: 10px;
+  width: 355px;
+}
+
+.index .overlap-group-3 {
+  height: 131px;
+  left: 2px;
+  position: relative;
+  top: 6px;
+  width: 346px;
+}
+
+.index .BUX {
+  -webkit-text-stroke: 3px #ffca00;
+  color: transparent;
+  font-family: "Outfit", Helvetica;
+  font-size: 64px;
+  font-weight: 800;
+  height: 81px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.index .text-wrapper-9 {
+  color: transparent;
+  font-family: "Outfit", Helvetica;
+  font-size: 64px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .span-wrapper-3 {
+  -webkit-text-stroke: 3px #000000;
+  color: #ffffff;
+  filter: blur(5px);
+  font-family: "Outfit", Helvetica;
+  font-size: 96px;
+  font-weight: 800;
+  height: 121px;
+  left: 137px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+}
+
+.index .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Outfit", Helvetica;
+  font-size: 96px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.index .DAO {
+  -webkit-text-stroke: 3px #ffca00;
+  color: transparent;
+  font-family: "Outfit", Helvetica;
+  font-size: 64px;
+  font-weight: 800;
+  height: 81px;
+  left: 200px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.index .ellipse-9 {
+  border-radius: 65.5px;
+  filter: blur(10px);
+  height: 131px;
+  left: 104px;
+  position: absolute;
+  top: 0;
+  width: 131px;
+}
+
+.index .side-menu {
+  background-color: #090f3f;
+  border-radius: 0px 0px 10px 0px;
+  height: 887px;
+  left: 0;
+  position: fixed;
+  top: -16px;
+  width: 162px;
+}
+
+.index .apple-UI {
+  height: 56px;
+  left: 19px;
+  position: absolute;
+  top: 19px;
+  width: 116px;
+}
+
+.index .frame-15 {
+  height: 19px;
+  left: 19px;
+  position: relative;
+  top: 19px;
+  width: 79px;
+}
+
+.index .ellipse-10 {
+  background-color: #ff0000;
+  border-radius: 9.39px;
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.index .ellipse-11 {
+  background-color: #f9ff00;
+  border-radius: 9.39px;
+  height: 19px;
+  left: 30px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.index .ellipse-12 {
+  background-color: #23de05;
+  border-radius: 9.39px;
+  height: 19px;
+  left: 60px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.index .profile {
+  height: 98px;
+  left: 19px;
+  position: absolute;
+  top: 94px;
+  width: 124px;
+}
+
+.index .ham {
+  height: 17px;
+  left: 43px;
+  position: absolute;
+  top: 40px;
+  width: 38px;
+}
+
+.index .menus {
+  height: 650px;
+  left: 19px;
+  position: absolute;
+  top: 210px;
+  width: 124px;
+}
+
+.index .menu {
+  height: 105px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 124px;
+}
+
+.index .button-template {
+  height: 86px;
+  left: 19px;
+  position: relative;
+  width: 86px;
+}
+
+.index .frame-16 {
+  background-image: url(https://cdn.animaapp.com/projects/6559a8c90d3a48ab5d2e1766/releases/6559a97e38fd7dfd97a3a670/img/collections-1@2x.png);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 9px;
+  position: relative;
+  top: 9px;
+  width: 68px;
+}
+
+.index .menu-2 {
+  height: 545px;
+  left: 0;
+  position: absolute;
+  top: 105px;
+  width: 124px;
+}
+
+.index .frame-wrapper {
+  background-color: #090f3f;
+  height: 86px;
+  left: 19px;
+  position: absolute;
+  top: 19px;
+  width: 86px;
+}
+
+.index .frame-17 {
+  background-image: url(https://cdn.animaapp.com/projects/6559a8c90d3a48ab5d2e1766/releases/6559a97e38fd7dfd97a3a670/img/fcked-catz-1@2x.png);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 9px;
+  position: relative;
+  top: 9px;
+  width: 68px;
+}
+
+.index .button-template-2 {
+  height: 86px;
+  left: 19px;
+  position: absolute;
+  top: 124px;
+  width: 86px;
+}
+
+.index .frame-18 {
+  background-image: url(https://cdn.animaapp.com/projects/6559a8c90d3a48ab5d2e1766/releases/6559a97e38fd7dfd97a3a670/img/3d-monsters-1@2x.png);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 9px;
+  position: relative;
+  top: 9px;
+  width: 68px;
+}
+
+.index .button-template-3 {
+  height: 86px;
+  left: 19px;
+  position: absolute;
+  top: 229px;
+  width: 86px;
+}
+
+.index .frame-19 {
+  background-image: url(https://cdn.animaapp.com/projects/6559a8c90d3a48ab5d2e1766/releases/6559a97e38fd7dfd97a3a670/img/a-i--bitbots-1@2x.png);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 9px;
+  position: relative;
+  top: 9px;
+  width: 68px;
+}
+
+.index .button-template-4 {
+  height: 86px;
+  left: 19px;
+  position: absolute;
+  top: 334px;
+  width: 86px;
+}
+
+.index .frame-20 {
+  background-image: url(https://cdn.animaapp.com/projects/6559a8c90d3a48ab5d2e1766/releases/6559a97e38fd7dfd97a3a670/img/monsters-1@2x.png);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 9px;
+  position: relative;
+  top: 9px;
+  width: 68px;
+}
+
+.index .button-template-5 {
+  height: 86px;
+  left: 19px;
+  position: absolute;
+  top: 440px;
+  width: 86px;
+}
+
+.index .frame-21 {
+  background-image: url(https://cdn.animaapp.com/projects/6559a8c90d3a48ab5d2e1766/releases/6559a97e38fd7dfd97a3a670/img/celeb-catz-1@2x.png);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 9px;
+  position: relative;
+  top: 9px;
+  width: 68px;
+}
